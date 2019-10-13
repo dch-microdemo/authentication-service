@@ -19,5 +19,5 @@ signing:
 opentracing:
   jaeger:
     udp-sender:
-      host: 192.168.99.100
+      host: 192.168.99.101
       port: 6831
